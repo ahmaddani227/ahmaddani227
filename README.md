@@ -18,6 +18,5 @@
     <a href="https://github.com/ahmaddani227">
         <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ahmaddani227&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ahmaddani227" />
         <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmaddani227&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="ahmaddani227" />
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmaddani227&theme=github-dark&hide_border=true" alt="GitHub Streak" />
     </a>
 </div>
