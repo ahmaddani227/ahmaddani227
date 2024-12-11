@@ -20,3 +20,9 @@
 	<img align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmaddani227&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="ahmaddani227" />
     <img align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ahmaddani227&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="ahmaddani227" />
 </p>
+
+<h2>Visitors</h2>
+
+<p align="center">
+  <img src="https://count.getloli.com/@ahmaddani227?name=ahmaddani227&theme=minecraft" alt="Visitors">
+</p>
