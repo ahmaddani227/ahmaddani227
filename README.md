@@ -24,5 +24,5 @@
 <h2>Visitors</h2>
 
 <p align="center">
-  <img src="https://count.getloli.com/@ahmaddani227?name=ahmaddani227&theme=minecraft" alt="Visitors">
+  <img src="https://count.getloli.com/@ahmaddani227?name=ahmaddani227&theme=booru-r6gdrawfriends" alt="Visitors">
 </p>
