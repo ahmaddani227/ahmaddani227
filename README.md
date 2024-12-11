@@ -16,8 +16,7 @@
 <h2>Github Stats</h2>
 
 <p align="center">
-    <a href="https://github.com/ahmaddani227">
-        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ahmaddani227&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ahmaddani227" />
-        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmaddani227&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="ahmaddani227" />
-    </a>
+	<br/> &nbsp;
+	<img align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmaddani227&show_icons=true&locale=en&theme=github_dark&include_all_commits=true&count_private=true" alt="ahmaddani227" />
+    <img align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=dvlboo&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ahmaddani227" />
 </p>
