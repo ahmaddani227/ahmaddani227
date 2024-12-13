@@ -30,8 +30,8 @@
 
 <p align="center">
 	<br/> &nbsp;
-	<img align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmaddani227&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="ahmaddani227" />
-    <img align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ahmaddani227&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="ahmaddani227" />
+	<img align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmaddani227&show_icons=true&locale=en&theme=transparent&include_all_commits=true&count_private=true" alt="ahmaddani227" />
+    <img align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ahmaddani227&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ahmaddani227" />
 </p>
 
 <h2>
