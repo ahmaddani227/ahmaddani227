@@ -12,7 +12,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,redux,vue,express,prisma,mysql,mongo" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,redux,express,prisma,mysql,mongo" />
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
