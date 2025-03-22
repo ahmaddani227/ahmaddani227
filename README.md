@@ -21,7 +21,7 @@
 <h2>
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" 
-       alt="Bar Chart" 
+       alt="Bar Chartt" 
        width="30" 
        height="30" 
        style="vertical-align: middle;" /> 
