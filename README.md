@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
-  <img alt="GIF Demo" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/25/aa/e1/25aae130a27abbdd3ddee8090ed9fe4b.gif">
+  <img alt="GIF Demo" src="https://i.pinimg.com/originals/25/aa/e1/25aae130a27abbdd3ddee8090ed9fe4b.gif">
 </picture>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Dani</h1>
