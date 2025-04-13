@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/25/aa/e1/25aae130a27abbdd3ddee8090ed9fe4b.gif">
   <img alt="GIF Demo" src="https://i.pinimg.com/originals/25/aa/e1/25aae130a27abbdd3ddee8090ed9fe4b.gif">
 </picture>
